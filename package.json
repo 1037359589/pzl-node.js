@@ -1,0 +1,23 @@
+{
+  "name": "pzl-nodejs",
+  "version": "1.0.0",
+  "description": "test of nodejs",
+  "main": "demo1.js",
+  "dependencies": {
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1037359589/pzl-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1037359589/pzl-node.js/issues"
+  },
+  "homepage": "https://github.com/1037359589/pzl-node.js#readme"
+}
